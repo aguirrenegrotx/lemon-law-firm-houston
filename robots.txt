@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://2-r.net/lemon-law-firm-houston/sitemap.xml
