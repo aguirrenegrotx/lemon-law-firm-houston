@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://2-r.net/lemon-law-firm-houston/sitemap.xml
+Sitemap: https://lemon-law-firm-houston.2-r.net/sitemap.xml
